@@ -12,15 +12,10 @@ Course Info:
 
 Instructor Info:
   Name: Prof. Shahriar Nirjon
-  
   Office: FB 212
-  
   Email: nirjon@cs.unc.edu
-  
   Phone: 919-590-6039
-  
   Web: http://www.cs.unc.edu/~nirjon/
-  
   Office Hours: By email appointments (typically before/after the class)
   
 Student Info:
