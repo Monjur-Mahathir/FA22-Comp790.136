@@ -2,7 +2,7 @@
 Github repository for course titled "Ubiquitous Sensing and Intelligent Systems" 
 
 Course Info:
-  Term: Fall 2022
+  Term: Fall 2022 \n
   Department: COMP
   Course Number: 590/790
   Section Number: 136
